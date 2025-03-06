@@ -50,9 +50,9 @@ class Navigation extends React.Component {
                         <NavLink to={"/about"}>About us</NavLink>
                         </li>
                         <li>
-                        <NavLink to={"/services"}>Services</NavLink>
+                        <NavLink to={"/project-grid"}>Services</NavLink>
                         </li>
-                        <li>
+                        {/* <li>
                         <NavLink to={""}>Pages</NavLink>
                             <ul className="sub-menu">
                                 <li>
@@ -107,7 +107,7 @@ class Navigation extends React.Component {
                                 <li><NavLink to={"/video"}>Video</NavLink></li>
                                 <li><NavLink to={"/iconfont"}>Icon Font</NavLink></li>
                             </ul>
-                        </li>
+                        </li> */}
                     </ul>
                 </div>
             </>

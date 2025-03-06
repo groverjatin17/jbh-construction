@@ -6,25 +6,25 @@ const services = [
         count: 1,
         title: `Building Construction`,
         icon: require('./../../images/icon/crane-1.png'),
-        description: 'lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident.',
+        description: 'Turning blueprints into reality with precision and excellence.',
     },
     {
         count: 2,
         title: 'Building Renovation',
         icon: require('./../../images/icon/renovation.png'),
-        description: 'lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident.',
+        description: 'Revitalizing spaces with expert craftsmanship and innovation.',
     },
     {
         count: 3,
         title: 'Building Maintenance',
         icon: require('./../../images/icon/toolbox.png'),
-        description: 'lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident.',
+        description: 'Ensuring durability and efficiency with proactive care.',
     },
     {
         count: 4,
         title: 'Architecture Design',
         icon: require('./../../images/icon/compass.png'),
-        description: 'lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident.',
+        description: 'Crafting visionary designs that inspire, sustain and endure',
     }
 ]
 
@@ -59,7 +59,7 @@ class Specialization4 extends React.Component {
                                                     <div className="icon-content">
                                                         <h4 className="mt-tilte m-b25">{item.title}</h4>
                                                         <p>{item.description}</p>
-                                                        <NavLink to={"/services"} className="site-button-link" data-hover="Read More">Read More <i className="fa fa-angle-right arrow-animation" /></NavLink>
+                                                        <NavLink to={"/contactus"} className="site-button-link" data-hover="Read More">Read More <i className="fa fa-angle-right arrow-animation" /></NavLink>
                                                     </div>
                                                 </div>
                                             </div>

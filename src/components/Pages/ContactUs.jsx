@@ -75,21 +75,21 @@ class ContactUs extends React.Component {
                                                     <div className="icon-xs"><i className="fa fa-phone" /></div>
                                                     <div className="icon-content">
                                                         <h5 className="m-t0 font-weight-500">Phone number</h5>
-                                                        <p>(123) 456-78910</p>
+                                                        <p>(+1)-437-373-5200</p>
                                                     </div>
                                                 </div>
                                                 <div className="mt-icon-box-wraper left p-b40">
                                                     <div className="icon-xs"><i className="fa fa-envelope" /></div>
                                                     <div className="icon-content">
                                                         <h5 className="m-t0 font-weight-500">Email address</h5>
-                                                        <p>7xthemehelp@gmail.com</p>
+                                                        <p>Constructionjbh@gmail.com</p>
                                                     </div>
                                                 </div>
                                                 <div className="mt-icon-box-wraper left">
                                                     <div className="icon-xs"><i className="fa fa-map-marker" /></div>
                                                     <div className="icon-content">
                                                         <h5 className="m-t0 font-weight-500">Address info</h5>
-                                                        <p>09, Martin Street B190 Polo Alto, San Francisco</p>
+                                                        <p>Brampton, Ontario</p>
                                                     </div>
                                                 </div>
                                             </div>

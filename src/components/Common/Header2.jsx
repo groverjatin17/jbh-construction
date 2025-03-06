@@ -122,14 +122,14 @@ class Header2 extends React.Component {
                                                     <div className="icon-xs m-b20 scale-in-center"><i className="fa fa-phone" /></div>
                                                     <div className="icon-content">
                                                         <h5 className="m-t0 font-weight-500">Phone number</h5>
-                                                        <p>(075) 123-7654</p>
+                                                        <p>(+1)-437-373-5200</p>
                                                     </div>
                                                 </div>
                                                 <div className="mt-icon-box-wraper center p-b30">
                                                     <div className="icon-xs m-b20 scale-in-center"><i className="fa fa-envelope" /></div>
                                                     <div className="icon-content">
                                                         <h5 className="m-t0 font-weight-500">Email address</h5>
-                                                        <p>7xthemehelp@gmail.com</p>
+                                                        <p>Constructionjbh@gmail.com</p>
                                                     </div>
                                                 </div>
                                                 <div className="mt-icon-box-wraper center p-b30">

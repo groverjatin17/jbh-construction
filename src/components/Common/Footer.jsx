@@ -72,15 +72,13 @@ class Footer extends React.Component {
                                     <div className="widget widget_address_outer">
                                         <h4 className="widget-title">Contact Us</h4>
                                         <ul className="widget_address">
-                                            <li>34/7 Liverpool Street, Suite 636, London, United Kingdom</li>
-                                            <li>7xthemedemo@gmail.com</li>
-                                            <li>(+298) 012-3456-789</li>
-                                            <li>(+298) 146-6543-480</li>
-                                        </ul>
+                                            <li>Brampton, Canada</li>
+                                            <li>Constructionjbh@gmail.com</li>
+                                            <li>(+1)-437-373-5200</li>                                        </ul>
                                     </div>
                                 </div>
                                 {/* USEFUL LINKS */}
-                                <div className="col-lg-3 col-md-6 col-sm-6 footer-col-3">
+                                {/* <div className="col-lg-3 col-md-6 col-sm-6 footer-col-3">
                                     <div className="widget widget_services inline-links">
                                         <h4 className="widget-title">Useful links</h4>
                                         <ul>
@@ -90,9 +88,9 @@ class Footer extends React.Component {
                                             <li><NavLink to={"/contactus"}>Contact Us</NavLink></li>
                                         </ul>
                                     </div>
-                                </div>
+                                </div> */}
                                 {/* TAGS */}
-                                <div className="col-lg-3 col-md-6 col-sm-6">
+                                {/* <div className="col-lg-3 col-md-6 col-sm-6">
                                     <div className="widget recent-posts-entry-date">
                                         <h4 className="widget-title">Resent Post</h4>
                                         <div className="widget-post-bx">
@@ -134,7 +132,7 @@ class Footer extends React.Component {
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> */}
                                 {/* NEWSLETTER */}
                             </div>
                         </div>
